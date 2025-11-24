@@ -16,5 +16,4 @@ http://192.168.1.101:2283
 Username/password  = admin@email.local/admin   for admin user
 Username/password = user1@email.local/user1 for user1
 
-
-<img width="540" height="705" alt="image" src="https://github.com/user-attachments/assets/f058acc9-b53e-439a-8bfb-f6d0d42d133b" />
+Note: I meant to make this for VirtualBox. I can make another version for ESXi but if you know more than me, you can make it and share with me please. Again, time, time, time.
