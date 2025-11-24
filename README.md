@@ -1,6 +1,11 @@
 # ocim
 Owncloud and Immich in one OVA
-Owncloud:
+
+I have been trying to make something quick to test for my home lab. Please note that you can do the same. It's just time consuming when I tried to 
+make something quick. Security and other things can be added when you put it in production. Hope you find it helpful.
+Link to download the OVA: https://drive.google.com/file/d/1I1I-ZvQMUCT4v3vvZNC1MDGpnYITqm-4/view?usp=drive_link
+
+For Owncloud:
 http://192.168.1.101
 Username/password = admin/admin for admin user
 Username/password = user1/user1 for user
