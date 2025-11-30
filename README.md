@@ -7,13 +7,17 @@ Link to download the OVA: https://drive.google.com/file/d/1I1I-ZvQMUCT4v3vvZNC1M
 
 For Owncloud:
 http://192.168.1.101
-Username/password = admin/admin for admin user
+Username/password = admin/admin for admin user =>Highly Recommended to change password after login for the first time.
 Username/password = user1/user1 for user
   
 
 For Immich 
 http://192.168.1.101:2283
-Username/password  = admin@email.local/admin   for admin user
+Username/password  = admin@email.local/admin   for admin user =>Highly Recommended to change password after login for the first time.
 Username/password = user1@email.local/user1 for user1
+
+For SSH:
+bitnami@192.168.1.101
+Username/password = bitnami/bitnami =>Highly Recommended to change password after login for the first time.
 
 Note: I meant to make this for VirtualBox. I can make another version for ESXi but if you know more than me, you can make it and share with me please. Again, time, time, time.
