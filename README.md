@@ -1,4 +1,4 @@
-# ocim
+# OCIM
 Owncloud and Immich in one OVA
 
 I have been trying to make something quick to test for my home lab. Please note that you can do the same. It's just time consuming when I tried to 
